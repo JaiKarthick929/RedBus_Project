@@ -6,9 +6,12 @@ The 'Redbus Data Scraping and Filtering with Streamlit Application' aims to revo
 
 TECHNOLOGY USED:
 
-Python 
+Python
+
 MySQL
+
 Streamlit
+
 Selenium
 
 Store data in database:
@@ -22,9 +25,16 @@ With the help of Streamlit, you can create an interactive application similar to
 PACKAGES AND LIBRARIES:
 
 pandas as pd
+
 mysql.connector
+
 import time
+
 streamlit as slt
+
 import datetime
+
 from streamlit_option_menu import option_menu
+
 from selenium import webdriver
+
